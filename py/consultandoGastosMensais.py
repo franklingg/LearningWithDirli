@@ -1,0 +1,5 @@
+months = input().split()
+values = input().split()
+search = input()
+index = months.index(search)
+print(values[index])

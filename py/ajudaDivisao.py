@@ -1,0 +1,5 @@
+dividendo = float(input())
+divisor = float(input())
+print("divisao inteira: {}".format(dividendo // divisor))
+print("resto: {}".format(dividendo % divisor))
+print("divisao exata: " + str(dividendo / divisor))

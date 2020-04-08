@@ -1,0 +1,7 @@
+usuario = input()
+valor_1 = float(input())
+valor_2 = float(input())
+valor_3 = float(input())
+print("Oi " + usuario + "!")
+print(valor_1 + valor_2 + valor_3)
+print(valor_1 * valor_2 * valor_3)
